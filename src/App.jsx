@@ -2,7 +2,7 @@
 
 
 import React from "react";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Contactform from "./components/Contactform";
 import { Header } from "./components/Header";
